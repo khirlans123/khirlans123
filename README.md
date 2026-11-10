@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Anas!
 
-<!--
-**khirlans123/khirlans123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Informatics Student | Web Developer | Lifelong Learner 🚀
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://khirlans.my.id" target="_blank">
+    <img src="https://img.shields.io/badge/▲_PORTFOLIO-000000?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,python,django,js,react,ps" />
+</p>
+
+---
+
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=khirlans123&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=khirlans123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=khirlans123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Great things are built one line of code at a time."</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
